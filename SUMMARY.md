@@ -68,7 +68,7 @@
 	* [11.2 编写Subscriber Node](chapter11/11.2Writing the Subscriber Node.md)
 	* [11.3 编译nodes](chapter11/11.3Building your nodes.md)
 
-* [12 写一个简单的消息发布器和订阅器 (Python)](chapter12/README.md)
+* [12 编写简单的Publisher和Subscriber(Python)](chapter12/README.md)
 	* [12.1 编写Publisher Node](chapter12/12.1Writing the Publisher Node.md)
 	* [12.2 编写Subscriber Node](chapter12/12.2Writing the Subscribler Node.md)
 	* [12.3 编译nodes](chapter12/12.3Building your nodes.md)
