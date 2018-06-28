@@ -1,7 +1,6 @@
 # Summary
 
 * [简介](README.md)
-* [常见问题](Faq.md)
 
 * [1 安装并配置ROS环境](chapter1/README.md)
     * [1.1 安装ROS](chapter1/1.1Installing and Configuring Your ROS Environment.md)
