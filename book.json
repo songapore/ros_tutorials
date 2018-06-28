@@ -1,5 +1,8 @@
-"pluginsConfig": {
+{
+    "plugins": ["disqus"],
+    "pluginsConfig": {
         "disqus": {
             "shortName": "songapore"
         }
+    }
 }
